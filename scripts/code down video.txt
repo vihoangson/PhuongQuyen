@@ -1,5 +1,21 @@
 yt-dlp -o ~/PhuongQuyen/20261026.mp4 https://www.youtube.com/watch?v=WMhtf2diSik
 
+https://www.facebook.com/reel/
+
+https://github.com/settings/repositories
+
+yt-dlp --cookies-from-browser chrome "https://www.facebook.com/reel/1062080910159939"
+
+yt-dlp -o ~/PhuongQuyen/20261016.mp4 https://www.facebook.com/reel/1062080910159939
+yt-dlp -o ~/PhuongQuyen/20261020.mp4 https://www.facebook.com/reel/1727694592699904
+yt-dlp -o ~/PhuongQuyen/20261021.mp4 https://www.facebook.com/reel/1530523625578386
+yt-dlp -o ~/PhuongQuyen/20261022.mp4 https://www.facebook.com/reel/1927867231513759
+yt-dlp -o ~/PhuongQuyen/20261023.mp4 https://www.facebook.com/reel/1106026128870627
+yt-dlp -o ~/PhuongQuyen/20261025.mp4 https://www.facebook.com/reel/1658849785945375
+yt-dlp -o ~/PhuongQuyen/20261026.mp4 https://www.facebook.com/reel/1163105139383511
+
+
+
 
 https://www.facebook.com/search/top?q=ph%C6%B0%C6%A1ng%20quy%C3%AAn
 
