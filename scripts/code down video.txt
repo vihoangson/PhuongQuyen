@@ -1,4 +1,5 @@
 ===========⭐  ⭐=========== 
+
 yt-dlp -o ~/PhuongQuyen/20261016.mp4 https://www.facebook.com/reel/1062080910159939
 yt-dlp -o ~/PhuongQuyen/20261020.mp4 https://www.facebook.com/reel/1727694592699904
 yt-dlp -o ~/PhuongQuyen/20261021.mp4 https://www.facebook.com/reel/1530523625578386
@@ -7,9 +8,14 @@ yt-dlp -o ~/PhuongQuyen/20261023.mp4 https://www.facebook.com/reel/1106026128870
 yt-dlp -o ~/PhuongQuyen/20261025.mp4 https://www.facebook.com/reel/1658849785945375
 yt-dlp -o ~/PhuongQuyen/20261026.mp4 https://www.facebook.com/reel/1163105139383511
 yt-dlp -o ~/PhuongQuyen/20261027.mp4 https://www.facebook.com/reel/2115093755891689
+yt-dlp -o ~/PhuongQuyen/20261027-01.mp4 https://www.facebook.com/reel/1629716215361319
 
 # command lazy push và mở github
 cd ~/PhuongQuyen && git add . && git commit -m 'update' && git push && explorer "https://github.com/vihoangson/PhuongQuyen/commits/master/"
 
 10/26/2026 10:10:03 AM
 //todo: dùng api f lấy thông tin post mới của user download xuống
+
+
+# gọi upload file
+"C:\Program Files\Google\Chrome\Application\chrome.exe" https://studio.youtube.com/channel/UCogyf8gZHjSRs5cpCl9S5zQ/videos/short?d=ud&filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D --profile-directory="Profile 28" --source-shortcut-location=desktop
