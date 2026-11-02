@@ -11,6 +11,14 @@ yt-dlp -o ~/PhuongQuyen/storage/app/videos/20261027.mp4 https://www.facebook.com
 yt-dlp -o ~/PhuongQuyen/storage/app/videos/20261027-01.mp4 https://www.facebook.com/reel/1629716215361319
 yt-dlp -o ~/PhuongQuyen/storage/app/videos/20261028.mp4 https://www.facebook.com/reel/1356844003027257
 
+
+yt-dlp -o ~/PhuongQuyen/storage/app/videos/20261029.mp4 https://www.facebook.com/reel/1146027051176487
+yt-dlp -o ~/PhuongQuyen/storage/app/videos/20261031.mp4 https://www.facebook.com/reel/1155139457168446
+
+yt-dlp -o ~/PhuongQuyen/storage/app/videos/20261101-0.mp4 https://www.facebook.com/reel/1755758439312209
+yt-dlp -o ~/PhuongQuyen/storage/app/videos/20261101.mp4 https://www.facebook.com/reel/1129572499488139
+
+
 # command lazy push và mở github
 cd ~/PhuongQuyen && git add . && git commit -m 'update' && git push && explorer "https://github.com/vihoangson/PhuongQuyen/commits/master/"
 
