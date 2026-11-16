@@ -22,6 +22,11 @@ yt-dlp -o ~/PhuongQuyen/storage/app/videos/20261107.mp4 https://www.facebook.com
 yt-dlp -o ~/PhuongQuyen/storage/app/videos/20261109.mp4 https://www.facebook.com/reel/1697999741939944
 yt-dlp -o ~/PhuongQuyen/storage/app/videos/20261110.mp4 https://www.facebook.com/reel/1372147908159504
 yt-dlp -o ~/PhuongQuyen/storage/app/videos/20261111.mp4 https://www.facebook.com/reel/1730023415222270
+yt-dlp -o ~/PhuongQuyen/storage/app/videos/20261112.mp4 https://www.facebook.com/reel/1457955156542593
+yt-dlp -o ~/PhuongQuyen/storage/app/videos/20261113.mp4 https://www.facebook.com/reel/2902440476779815
+yt-dlp -o ~/PhuongQuyen/storage/app/videos/20261115-1.mp4 https://www.facebook.com/reel/3016748778692699
+yt-dlp -o ~/PhuongQuyen/storage/app/videos/20261115-2.mp4 https://www.facebook.com/reel/2147304109233950
+yt-dlp -o ~/PhuongQuyen/storage/app/videos/20261116.mp4 https://www.facebook.com/reel/1439974007742377
 
 
 
