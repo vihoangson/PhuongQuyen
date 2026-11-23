@@ -28,7 +28,7 @@ yt-dlp -o ~/PhuongQuyen/storage/app/videos/20261115-1.mp4 https://www.facebook.c
 yt-dlp -o ~/PhuongQuyen/storage/app/videos/20261115-2.mp4 https://www.facebook.com/reel/2147304109233950
 yt-dlp -o ~/PhuongQuyen/storage/app/videos/20261116.mp4 https://www.facebook.com/reel/1439974007742377
 yt-dlp -o ~/PhuongQuyen/storage/app/videos/20261117.mp4 https://www.facebook.com/reel/1467249842285994
-
+yt-dlp -o ~/PhuongQuyen/storage/app/videos/20261123.mp4 https://www.facebook.com/reel/1198906196045856
 
 
 # command lazy push và mở github
