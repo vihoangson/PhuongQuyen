@@ -28,11 +28,12 @@ yt-dlp -o ~/PhuongQuyen/storage/app/videos/20261115-1.mp4 https://www.facebook.c
 yt-dlp -o ~/PhuongQuyen/storage/app/videos/20261115-2.mp4 https://www.facebook.com/reel/2147304109233950
 yt-dlp -o ~/PhuongQuyen/storage/app/videos/20261116.mp4 https://www.facebook.com/reel/1439974007742377
 yt-dlp -o ~/PhuongQuyen/storage/app/videos/20261117.mp4 https://www.facebook.com/reel/1467249842285994
+yt-dlp -o ~/PhuongQuyen/storage/app/videos/20261121.mp4 https://www.facebook.com/reel/2324215965023662
 yt-dlp -o ~/PhuongQuyen/storage/app/videos/20261123.mp4 https://www.facebook.com/reel/1198906196045856
 
 
 # command lazy push và mở github
-cd ~/PhuongQuyen && git add . && git commit -m 'update' && git push && explorer "https://github.com/vihoangson/PhuongQuyen/commits/master/"
+cd ~/PhuongQuyen && git add . && git commit -m 'update' && git pull &&  git push && explorer "https://github.com/vihoangson/PhuongQuyen/commits/master/"
 
 10/26/2026 10:10:03 AM
 //todo: dùng api f lấy thông tin post mới của user download xuống
